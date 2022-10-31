@@ -1,5 +1,5 @@
 import re
-names=input().split(', ')
+names=input('С большой буквы и черз пробел\n').split(', ')
 fcounter=0
 mcounter=0
 def female(lastNames):
